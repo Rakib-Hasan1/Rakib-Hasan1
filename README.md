@@ -14,7 +14,7 @@
 I’m a self-motivated web developer from Bangladesh, passionate about creating fast and responsive web apps using modern JavaScript technologies.
 
 - 🚀 Exploring **Next.js**
-- 🧰 Working on **ZapShift – A Parcel Delivery Platform**
+- 🧰 Working on **Pro-Shift – A Parcel Delivery Platform**
 - 🏖️ Building side-projects & practicing clean UI/UX
 
 ---
