@@ -1,3 +1,5 @@
+<img src="https://your-banner-url.com" alt="Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm MD Rakib Hasan</h1>
 <h3 align="center">🚀 Web Developer | MERN Stack Enthusiast</h3>
 
@@ -8,23 +10,32 @@
 
 ---
 
-### 💡 About Me
-- 🔭 I’m currently building **ZapShift - A Parcel Delivery Platform**
-- 🌱 I’m learning and working with **MERN Stack & Firebase**
-- 💬 Ask me about anything in **React, Firebase, MongoDB, Express.js**
-- 📫 Reach me at: **dev.rakibhasan1@gmail.com**
-- ⚡ Fun fact: *I build better UI than I cook Maggi 🍜*
+### 🧑‍💻 About Me
+I’m a self-motivated web developer from Bangladesh, passionate about creating fast and responsive web apps using modern JavaScript technologies.
+
+- 🚀 Exploring **Next.js**
+- 🧰 Working on **ZapShift – A Parcel Delivery Platform**
+- 🏖️ Building side-projects & practicing clean UI/UX
 
 ---
 
-### 🛠️ Technologies & Tools
+### ⚙️ Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats (Dark Theme)
+### 🌐 Connect With Me
+<p align="left">
+  <a href="mailto:dev.rakibhasan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rakib-Hasan1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://rakibhasan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔥 GitHub Stats
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib-Hasan1&theme=tokyonight&hide_border=true" />
@@ -41,6 +52,7 @@ Here are a few things I’ve built recently:
 - 🔹 **ZapShift** – Parcel Delivery App with role-based dashboard & tracking
 - 🔹 **Event Explorer** – Discover local events by category & search
 - 🔹 **AuctionGallery** – Real-time auction bidding and product uploads
+- > 👉 *Check pinned repos for details.*
 
 ---
 
@@ -51,7 +63,3 @@ Here are a few things I’ve built recently:
 
 ---
 
-### 📫 Let’s Connect
-<p>
-  <a href="mailto:dev.rakibhasan1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
