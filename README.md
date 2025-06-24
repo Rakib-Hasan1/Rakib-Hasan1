@@ -51,8 +51,8 @@ I’m a self-motivated web developer from Bangladesh, passionate about creating 
 Here are a few things I’ve built recently:
 
 - 🔹 **Pro-Shift** – Parcel Delivery App with role-based dashboard & tracking
-- 🔹 **Event Explorer** – Discover local events by category & search
-- 🔹 **AuctionGallery** – Real-time auction bidding and product uploads
+- 🔹 **Job-portal-client** – Discover local events by category & search
+- 🔹 **dragon-news-authentication** – Real-time auction bidding and product uploads
 - > 👉 *Check pinned repos for details.*
 
 ---
