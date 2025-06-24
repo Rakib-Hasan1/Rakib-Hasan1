@@ -1,4 +1,4 @@
-[Purple and Pink Gradient Modern Programmer Presentation.pdf](https://github.com/user-attachments/files/20890345/Purple.and.Pink.Gradient.Modern.Programmer.Presentation.pdf)
+
 
 
 <h1 align="center">Hi 👋, I'm MD Rakib Hasan</h1>
