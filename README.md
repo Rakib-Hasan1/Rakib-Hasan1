@@ -40,7 +40,7 @@ I’m a self-motivated web developer from Bangladesh, passionate about creating 
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib-Hasan1&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib-Hasan1&theme=tokyo-night&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib-Hasan1&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
