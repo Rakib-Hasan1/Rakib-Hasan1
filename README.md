@@ -48,7 +48,7 @@ I’m a self-motivated web developer from Bangladesh, passionate about creating 
 ### 📌 Featured Projects
 Here are a few things I’ve built recently:
 
-- 🔹 **ZapShift** – Parcel Delivery App with role-based dashboard & tracking
+- 🔹 **Pro-Shift** – Parcel Delivery App with role-based dashboard & tracking
 - 🔹 **Event Explorer** – Discover local events by category & search
 - 🔹 **AuctionGallery** – Real-time auction bidding and product uploads
 - > 👉 *Check pinned repos for details.*
