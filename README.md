@@ -33,7 +33,7 @@ I’m a self-motivated web developer from Bangladesh, passionate about creating 
 
 ### ⚙️ Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,postman,figma,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,postman,figma,netlify,vercel" />
 </p>
 
 ---
