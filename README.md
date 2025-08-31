@@ -9,7 +9,7 @@
   <a href="mailto:dev.rakibhasan1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://rakib-portfolio-8a8b4.web.app/">
+<a href="https://modern-portfolio-lovat.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/dev-mdrakib/">
@@ -43,7 +43,7 @@ I’m a self-motivated web developer from Bangladesh, passionate about creating 
   <a href="mailto:dev.rakibhasan1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://rakib-portfolio-8a8b4.web.app/">
+  <a href="https://modern-portfolio-lovat.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/dev-mdrakib/">
