@@ -1,9 +1,10 @@
 
-![Gold Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/f2446b79-9ffc-41bb-8215-833982915406)
+![Banner](https://i.ibb.co.com/Q7LykBHT/github-banner.png)
 
 
-<h1 align="center">Hi 👋, I'm MD Rakib Hasan</h1>
-<h3 align="center">🚀 Web Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I'm MD Rakib Hasan</h1>
+<h3 align="center">Full Stack Developer | React & Node Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:dev.rakibhasan1@gmail.com">
@@ -22,14 +23,14 @@
 
 ---
 
-### 🧑‍💻 About Me
-I’m a self-motivated web developer from Bangladesh, passionate about creating fast and responsive web apps using modern JavaScript technologies.
+<h2 align="center">👋 About Me</h2>
 
-- 🚀 Exploring **Next.js**
-- 🧰 Working on **Pro-Shift – A Parcel Delivery Platform**
-- 🏖️ Building side-projects & practicing clean UI/UX
+<p style="font-size:16px; line-height:1.6; text-align:justify;">
+As a passionate <b>Full Stack Developer</b> with hands-on expertise in modern web technologies, I aim to leverage my skills in <b>React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, and animation libraries</b> to build scalable, user-friendly applications. Currently advancing my knowledge in <b>TypeScript</b> and <b>web architecture</b>, my short-term goal is to secure a <b>Junior Frontend position</b> where I can contribute to collaborative projects, grow in a team-based environment, and continuously refine my craft. I thrive on curiosity, problem-solving, and creating impactful digital experiences.
+</p>
 
 ---
+
 
 ### ⚙️ Skills & Technologies
 <p align="left">
